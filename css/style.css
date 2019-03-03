@@ -37,10 +37,19 @@ a:hover {
 /*  width: 50%;*/
 }
 
+.header-logo {
+  text-align: center;
+}
+
 .header-logo img {
-  display: inline;
+/*  display: inline;*/
+  vertical-align: middle;
 }
 
 .header-logo h1 {
   display: inline;
+}
+
+.header-text {
+ vertical-align: middle;
 }
