@@ -32,10 +32,14 @@ a:hover {
 /*====HEADER====*/
 
 .header {
-  background-color: #0dabff;
+/*  background-color: #0dabff;*/
+  background-image: url("https://bricksafe.com/files/Brickcrazy/2016_01_02_Animation_015_Frame_000002.jpg");
+  background-size:cover;
+  background-position: center;
 padding-top: 0.25em;
 padding-bottom: 0.25em;
   font-size: 1.3em;
+  color: white;
 }
 
 .header-logo {
